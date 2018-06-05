@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Other
+bin/compiler
+src/parser.c
+src/parser.h
+src/scanner.c
